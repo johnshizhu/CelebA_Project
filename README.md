@@ -1,6 +1,6 @@
-# Facial_Recognition
-Hello! I am exploring the world of facial recognition techniques.
+# CelebA
+Hello! I am exploring the world of object detection, computer vision, and more using the CelebA dataset!
 
-### Projects
-CelebA
+### Files
+CelebA - Hat recognition
 
